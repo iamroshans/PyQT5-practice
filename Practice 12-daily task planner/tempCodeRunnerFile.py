@@ -1,0 +1,2 @@
+Use QDate if you're working with PyQt-specific functionality or widgets that rely on the QDate type.
+# Use datetime.date (via toPyDate()) if you're interacting with standard Python code or libraries that expect na
